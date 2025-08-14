@@ -8,8 +8,8 @@ class DynamicMethodDispatch{
 
         obj = new C();
         obj.show();
-    };
-};
+    }
+}
 
 class A{
     public void show(){
